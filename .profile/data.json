@@ -1,0 +1,230 @@
+{
+ "key": "ab49c352",
+ "stars": 2,
+ "contributions": 125,
+ "repos": 13,
+ "followers": 0,
+ "languages": [
+  [
+   "Python",
+   408565
+  ],
+  [
+   "JavaScript",
+   45003
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 5
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "Darky-Selfbot",
+   "url": "https://github.com/Darknife339/Darky-Selfbot",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Tirex-ai-helper",
+   "url": "https://github.com/Darknife339/Tirex-ai-helper",
+   "text": "Discord AI helper bot for Tirex discord server",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Darknife339",
+   "url": "https://github.com/Darknife339/Darknife339",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "MC-Session-Stealer",
+   "url": "https://github.com/Darknife339/MC-Session-Stealer",
+   "text": "A simple example of how a Minecraft mod can steal your Session-Token",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "OpenVape",
+   "url": "https://github.com/Darknife339/OpenVape",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Batchfile",
+   "topics": []
+  },
+  {
+   "name": "My-userscripts",
+   "url": "https://github.com/Darknife339/My-userscripts",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "windhawk-api",
+   "url": "https://github.com/Darknife339/windhawk-api",
+   "text": "Typed Python client for the Windhawk mod repository (mods.windhawk.net): catalog, full-text search, mod sources, version history, and a CLI. Zero dependencies — standard library only. Fully typed (mypy --strict), with ETag caching and async support.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "roxy-cloner",
+   "url": "https://github.com/Darknife339/roxy-cloner",
+   "text": "A Discord Server Cloner in JavaScript",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Dark-bypasser-userscript",
+   "url": "https://github.com/Darknife339/Dark-bypasser-userscript",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "discord.py-darkself",
+   "url": "https://github.com/Darknife339/discord.py-darkself",
+   "text": "A fork of the popular discord.py for user accounts",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "just-pictures",
+   "url": "https://github.com/Darknife339/just-pictures",
+   "text": "I use this repository for uploading images (like imgur)",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Ball-escape",
+   "url": "https://github.com/Darknife339/Ball-escape",
+   "text": "The exact game you've seen in YouTube Shorts and TikTok",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Better-cat-color-roblox-script",
+   "url": "https://github.com/Darknife339/Better-cat-color-roblox-script",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
